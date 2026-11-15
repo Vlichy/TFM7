@@ -1,0 +1,9 @@
+langgraph>=1,<2
+langchain-google-genai>=4,<5
+langchain-text-splitters>=1,<2
+chromadb>=1.1,<2
+pypdf>=6,<7
+python-dotenv>=1,<2
+jupyterlab>=4,<5
+ipykernel>=6,<8
+streamlit>=1.45,<2
